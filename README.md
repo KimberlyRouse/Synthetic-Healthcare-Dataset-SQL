@@ -1,4 +1,4 @@
-# Healthcare Dataset: Cleaning & Exploratory Data Analysis (SQL)
+# Synthetic Healthcare Dataset: Cleaning, EDA & Faker-Detection Audit (SQL)
 
 A two-part SQL portfolio project demonstrating data cleaning and exploratory
 data analysis on a synthetic 55,500-row healthcare admissions dataset,
